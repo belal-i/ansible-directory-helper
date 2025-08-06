@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 name = "ansible-directory-helper"
 version = "0.3.1"
 authors = [
-    {name="Brian St. Hilaire", email="brian.st-hilaire@sanctus-tech.com"}
+    {name="Belal Ibrahim", email="belal.ibrahim@proton.me"}
 ]
 description = "A small helper library to manage local directories for Ansible Runner"
 readme = "README.md"
@@ -29,8 +29,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/saint-hilaire/ansible-directory-helper"
-Issues = "https://github.com/saint-hilaire/ansible-directory-helper/issues"
+Homepage = "https://github.com/belal-i/ansible-directory-helper"
+Issues = "https://github.com/belal-i/ansible-directory-helper/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
